@@ -10,6 +10,7 @@ public class MyZoo {
         for (Animal animal : animals) {
             System.out.println("Animal name: " + animal.name());
         }
+        System.out.println("Hello world");
     }
 
 }
